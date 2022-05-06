@@ -11,7 +11,7 @@ I was also head of R&D for Rising Sun Research, which developed acadamy award wi
 These days when I'm developing software for fun I use rust. Some of my recent rust projects include:
 
 * [gdocbak](https://github.com/mikeando/gdocbak): A small tool running on a home Rapberry-Pi 2 that backs up a variety of google documents weekly. (Complete)
-* [gnarled](https://github.com/mikeando/gnarle): An experimental library for programatic art creating SVGs (with a view to pen plotting). (WIP)
+* [gnarled](https://github.com/mikeando/gnarled): An experimental library for programatic art creating SVGs (with a view to pen plotting). (WIP)
 * A markdown library that aims for GFM / commonmark compliance, and can properly roundtrip markdown->Ast->markdown. (Passing 1450 / 1600 test)
 * [markovian](https://github.com/mikeando/markovian): A name/text generation tool using Markov chains and grammars.
 * An application for plotting and writing novels in markdown, with export of annotated drafts to Latex (and eventually .docx) (WIP)

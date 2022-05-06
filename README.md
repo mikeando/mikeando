@@ -1,16 +1,17 @@
-### Hi there 👋
+![Metrics](https://metrics.lecoq.io/mikeando?template=classic&base.community=0&base.metadata=0&languages=1&languages.limit=5&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Australia%2FPerth)
 
-<!--
-**mikeando/mikeando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software engineer for [DUG](https://dug.com). I specialise in computationally heavy, or mathematically focused software. My current work revolves around adding support for integrating custom code into the [DUG Insight](https://dug.com/dug-insight/) scientific platform. At DUG I've previuosly worked on [DUG Wave](https://dug.com/geoscience-services/full-waveform-inversion-fwi/) and several other tools.
 
-Here are some ideas to get you started:
+I founded Run With Robots, and lead development of our Roar engine for online social games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I was also head of R&D for Rising Sun Research, which developed acadamy award winning software for the visual effects industry.
+
+These days when I'm developing software for fun I use rust. Some of my recent rust projects include:
+
+* A small tool running on a home Rapberry-Pi 2 that backs up a variety of google documents weekly. (Complete)
+* An experimental library for programatic art creating SVGs (with a view to pen plotting). (WIP)
+* A markdown library that aims for GFM / commonmark compliance, and can properly roundtrip markdown->Ast->markdown. (Passing 1450 / 1600 test)
+* An application for plotting and writing novels in markdown, with export of annotated drafts to Latex (and eventually .docx) (WIP)
+* An application for tracking progress and setting weekly and daily goals for novel writing.(WIP)
+
+And probably a bunch of other things.

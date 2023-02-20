@@ -2,7 +2,10 @@
 
 [![stackoverflow flair](https://stackoverflow.com/users/flair/221955.png)](https://stackoverflow.com/users/221955/michael-anderson)
 
-I’m a software engineer for [DUG](https://dug.com). I specialise in computationally heavy, or mathematically focused software. My current work revolves around adding support for integrating custom code into the [DUG Insight](https://dug.com/dug-insight/) scientific platform. At DUG I've previuosly worked on [DUG Wave](https://dug.com/geoscience-services/full-waveform-inversion-fwi/) and several other tools.
+I’m a software engineer for [Neara](https://neara.com). I specialise in computationally heavy, or mathematically focused software.
+I'm currently working on finite-element calculation software.
+
+Previously I worked at [DUG](https://dug.com) where my work revolves around adding support for integrating custom code into the [DUG Insight](https://dug.com/dug-insight/) scientific platform. At DUG I've previuosly worked on [DUG Wave](https://dug.com/geoscience-services/full-waveform-inversion-fwi/) and several other tools.
 
 I founded Run With Robots, and lead development of our Roar engine for online social games.
 
